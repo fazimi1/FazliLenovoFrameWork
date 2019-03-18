@@ -13,20 +13,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Generic/src/test/java/contact/contactlenovo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="308">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Generic/src/test/java/search/searchlenovo.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/test/java/contact/signin/signinlenovo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <caret line="12" column="82" lean-forward="true" selection-start-line="12" selection-start-column="82" selection-end-line="12" selection-end-column="82" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,10 +70,11 @@
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/title/lenovohome.java" />
         <option value="$PROJECT_DIR$/Generic/src/test/java/homepage/lenovohome.java" />
-        <option value="$PROJECT_DIR$/Generic/src/test/java/playvideo/lenovovideo.java" />
         <option value="$PROJECT_DIR$/Generic/src/test/java/learnmore/aboutlenovo.java" />
-        <option value="$PROJECT_DIR$/Generic/src/test/java/contact/contactlenovo.java" />
         <option value="$PROJECT_DIR$/Generic/src/test/java/search/searchlenovo.java" />
+        <option value="$PROJECT_DIR$/Generic/src/test/java/playvideo/lenovovideo.java" />
+        <option value="$PROJECT_DIR$/Generic/src/test/java/contact/signin/signinlenovo.java" />
+        <option value="$PROJECT_DIR$/Generic/src/test/java/contact/contactlenovo.java" />
       </list>
     </option>
   </component>
@@ -76,22 +92,12 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-170" />
+    <option name="x" value="-266" />
     <option name="y" value="-12" />
     <option name="width" value="2560" />
     <option name="height" value="1372" />
@@ -102,6 +108,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,12 +120,6 @@
               <item name="lenovoautomation" type="b2602c69:ProjectViewProjectNode" />
               <item name="lenovoautomation" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lenovoautomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lenovoautomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="driver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lenovoautomation" type="b2602c69:ProjectViewProjectNode" />
@@ -172,6 +173,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="contact" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lenovoautomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lenovoautomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="homepage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lenovoautomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lenovoautomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -196,12 +215,11 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552599955050" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552877626282" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -265,24 +283,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lenovohome.test1 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Generic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homepage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="homepage" />
-      <option name="MAIN_CLASS_NAME" value="homepage.lenovohome" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="lenovovideo.search" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Generic" />
       <extension name="coverage">
@@ -319,13 +319,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="signinlenovo.search" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Generic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contact.signin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="contact.signin" />
+      <option name="MAIN_CLASS_NAME" value="contact.signin.signinlenovo" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.contactlenovo.search" />
-        <item itemvalue="TestNG.aboutlenovo.search" />
+        <item itemvalue="TestNG.signinlenovo.search" />
         <item itemvalue="TestNG.lenovovideo.search" />
-        <item itemvalue="TestNG.lenovohome.test1 (1)" />
         <item itemvalue="TestNG.searchlenovo.search" />
+        <item itemvalue="TestNG.aboutlenovo.search" />
       </list>
     </recent_temporary>
   </component>
@@ -343,41 +361,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="aboutlenovo_search - 2019.03.14 at 17h 00m 28s.xml">
-      <configuration name="aboutlenovo.search" configurationId="TestNG" />
+    <history-entry file="signinlenovo_search - 2019.03.17 at 19h 17m 59s.xml">
+      <configuration name="signinlenovo.search" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="aboutlenovo_search - 2019.03.14 at 17h 04m 45s.xml">
-      <configuration name="aboutlenovo.search" configurationId="TestNG" />
+    <history-entry file="signinlenovo_search - 2019.03.17 at 19h 19m 34s.xml">
+      <configuration name="signinlenovo.search" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="aboutlenovo_search - 2019.03.14 at 17h 05m 52s.xml">
-      <configuration name="aboutlenovo.search" configurationId="TestNG" />
+    <history-entry file="signinlenovo_search - 2019.03.17 at 19h 21m 13s.xml">
+      <configuration name="signinlenovo.search" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="aboutlenovo_search - 2019.03.14 at 17h 08m 02s.xml">
-      <configuration name="aboutlenovo.search" configurationId="TestNG" />
+    <history-entry file="signinlenovo_search - 2019.03.17 at 19h 23m 12s.xml">
+      <configuration name="signinlenovo.search" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="aboutlenovo_search - 2019.03.14 at 17h 11m 18s.xml">
-      <configuration name="aboutlenovo.search" configurationId="TestNG" />
+    <history-entry file="signinlenovo_search - 2019.03.17 at 22h 37m 02s.xml">
+      <configuration name="signinlenovo.search" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="aboutlenovo_search - 2019.03.14 at 17h 12m 57s.xml">
-      <configuration name="aboutlenovo.search" configurationId="TestNG" />
+    <history-entry file="signinlenovo_search - 2019.03.17 at 22h 38m 20s.xml">
+      <configuration name="signinlenovo.search" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="aboutlenovo_search - 2019.03.14 at 17h 15m 10s.xml">
-      <configuration name="aboutlenovo.search" configurationId="TestNG" />
+    <history-entry file="signinlenovo_search - 2019.03.17 at 22h 40m 53s.xml">
+      <configuration name="signinlenovo.search" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="aboutlenovo_search - 2019.03.14 at 17h 16m 45s.xml">
-      <configuration name="aboutlenovo.search" configurationId="TestNG" />
+    <history-entry file="signinlenovo_search - 2019.03.17 at 22h 44m 24s.xml">
+      <configuration name="signinlenovo.search" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="contactlenovo_search - 2019.03.14 at 17h 18m 54s.xml">
-      <configuration name="contactlenovo.search" configurationId="TestNG" />
+    <history-entry file="signinlenovo_search - 2019.03.17 at 22h 46m 03s.xml">
+      <configuration name="signinlenovo.search" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="contactlenovo_search - 2019.03.14 at 17h 19m 20s.xml">
+    <history-entry file="contactlenovo_search - 2019.03.17 at 22h 48m 49s.xml">
       <configuration name="contactlenovo.search" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25101215" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25506073" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -386,12 +405,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3321492" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3321492" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3285968" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3285968" />
@@ -399,23 +418,78 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.32874495" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.14817813" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25506073" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3321492" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.14817813" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/test/test.java" />
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/title/lenovohome.java" />
-    <entry file="file://$PROJECT_DIR$/Generic/src/test/java/playvideo/lenovovideo.java" />
     <entry file="file://$PROJECT_DIR$/Generic/src/test/java/learnmore/aboutlenovo.java" />
-    <entry file="file://$PROJECT_DIR$/Generic/src/test/java/contact/contactlenovo.java">
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="153">
+          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/test/java/search/searchlenovo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/test/java/playvideo/lenovovideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/By.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
+          <folding>
+            <element signature="e#4139#4140#0" expanded="true" />
+            <element signature="e#4186#4187#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -430,25 +504,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="72" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -456,10 +511,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/test/java/search/searchlenovo.java">
+    <entry file="file://$PROJECT_DIR$/Generic/src/test/java/contact/signin/signinlenovo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <caret line="12" column="82" lean-forward="true" selection-start-line="12" selection-start-column="82" selection-end-line="12" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/test/java/contact/contactlenovo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -518,7 +593,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Generic</last-edited>
+          <last-edited>lenovoautomation</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
